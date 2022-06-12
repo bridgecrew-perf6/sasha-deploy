@@ -31,4 +31,5 @@ Packages are programs (codes) written by other people with the goal of saving us
 1. Create a file in your project's folder called server.js.
 2. Import the express package: `const express = require('express');`.
 3. Create an app to hold the server: `const app = express();`.
+4. Export the server to the whole application: `export default app`.
 
