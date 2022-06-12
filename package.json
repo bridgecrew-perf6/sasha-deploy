@@ -1,0 +1,19 @@
+{
+  "name": "sasha-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unamednada/sasha-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unamednada/sasha-deploy/issues"
+  },
+  "homepage": "https://github.com/unamednada/sasha-deploy#readme"
+}
